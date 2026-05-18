@@ -1,4 +1,4 @@
-## Hi there 👋
+ Hi there 👋
 
 💻 Full Stack MERN Developer passionate about building scalable and user-friendly web applications.
 
@@ -32,4 +32,3 @@
 
 ⚡ Fun fact:
 I love building projects that solve real-world problems and improve user experience.
--->
