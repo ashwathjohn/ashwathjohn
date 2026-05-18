@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**ashwathjohn/ashwathjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack MERN Developer passionate about building scalable and user-friendly web applications.
 
-Here are some ideas to get you started:
+🚀 I specialize in:
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Authentication & Payment Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔨 I enjoy transforming ideas into real-world products with clean UI, optimized backend architecture, and responsive design.
+
+📌 Currently focused on:
+- Full Stack MERN Applications
+- SaaS Products
+- API Development
+- Modern UI/UX
+- Performance Optimization
+
+🌱 Continuously learning:
+- System Design
+- TypeScript
+- Next.js
+- Cloud & DevOps
+
+📫 Reach me:
+- LinkedIn: https://www.linkedin.com/in/ashwathjohn0206
+- Portfolio: https://www.linkedin.com/in/ashwathjohn0206
+- Email: ashwathjohnkottayil@gmail.com
+
+⚡ Fun fact:
+I love building projects that solve real-world problems and improve user experience.
 -->
