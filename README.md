@@ -137,7 +137,7 @@ A modern food ordering application focused on responsive design, intuitive navig
 | Performance | Lazy Loading, Optimized Rendering |
 | Security | Firebase Authentication |
 | Impact | Modern restaurant ordering experience |
-| Repository | https://github.com/ashwathjohn |
+| Repository | https://biteables.onrender.com/ |
 
 </details>
 
@@ -158,7 +158,7 @@ A modern analytics dashboard featuring reusable UI components, responsive layout
 | Performance | Optimized Components |
 | Security | Secure API Integration |
 | Impact | Improved data visualization |
-| Repository | https://github.com/ashwathjohn |
+| Repository | https://coresync-ten.vercel.app/ |
 
 </details>
 
@@ -214,43 +214,9 @@ Developed responsive frontend applications emphasizing reusable architecture, re
 
 ![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
 
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Certified-blue?style=for-the-badge)
 
 ---
 
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
-
-<a href="https://www.hackerrank.com">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
 
 # GitHub Analytics
 
@@ -343,7 +309,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-ashwathjohn-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ashwathjohn0206">
+<a href="https://ashwathjohn.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
