@@ -137,7 +137,7 @@ A modern food ordering application focused on responsive design, intuitive navig
 | Performance | Lazy Loading, Optimized Rendering |
 | Security | Firebase Authentication |
 | Impact | Modern restaurant ordering experience |
-| Repository | https://biteables.onrender.com/ |
+| Live | https://biteables.onrender.com/ |
 
 </details>
 
@@ -145,7 +145,7 @@ A modern food ordering application focused on responsive design, intuitive navig
 
 <details>
 
-<summary><b>📊 CoreSync - Business Dashboard</b></summary>
+<summary><b>📊 CoreSync - AI powered Saas application</b></summary>
 
 ### Description
 
@@ -158,7 +158,7 @@ A modern analytics dashboard featuring reusable UI components, responsive layout
 | Performance | Optimized Components |
 | Security | Secure API Integration |
 | Impact | Improved data visualization |
-| Repository | https://coresync-ten.vercel.app/ |
+| Live | https://coresync-ten.vercel.app/ |
 
 </details>
 
